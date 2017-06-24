@@ -48,7 +48,8 @@ The rules of the simulation are as follows:
 4) After displaying each new generation, ask the user if they wish to continue to the
    next generation or stop at this point.
 
-1) An electronic copy of the .cpp file in the project folder as created by Visual Studio. This will be emailed to the instructor with the subject line “COSC 1436.3S1 – Lab 7”.
+1) An electronic copy of the .cpp file in the project folder as created by Visual Studio.
+   This will be emailed to the instructor with the subject line “COSC 1436.3S1 – Lab 7”.
 2) If you wish any feedback on your work, turn in a printed listing of the .cpp file that you created.
 
 */
