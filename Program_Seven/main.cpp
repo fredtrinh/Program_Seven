@@ -33,13 +33,13 @@ The rules of the simulation are as follows:
 2) Cells change for each succeeding generation by the following rules:
  
  a. A living cell dies of overcrowding in the next generation if it currently has
- 4 or more living neighbors.
+    4 or more living neighbors.
  
  b. A living cell dies of loneliness in the next generation if it currently has
- only 0 or 1 living neighbors.
+    only 0 or 1 living neighbors.
  
  c. An empty cell becomes a “birth” cell (becomes alive) in the next
- generation if it has exactly 3 living neighbors.
+    generation if it has exactly 3 living neighbors.
  
  d. All other cells remain unchanged.
  
